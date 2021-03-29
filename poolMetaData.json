@@ -2,5 +2,6 @@
 "name": "Lo-Fi Stake Pool",
 "description": "For vibing and decentralize staking. Promoting productivity since 2021. Operated by a DevOps and Security professional with over 5 years of experience. The stake pools are designed for high availability, security, and scalability",
 "ticker": "LOFI",
-"homepage": "http://lofipool.com"
+"homepage": "http://lofipool.com",
+"adapool": "16f735af82371538f95a8aadae06d154"
 }
